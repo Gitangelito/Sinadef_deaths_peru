@@ -1,4 +1,13 @@
 # -*- coding: utf-8 -*-
+
+# ---------------------------------------------------------------
+# Peru Mortality Analysis - SINADEF Data Cleaning
+# Author: Angel Luyo
+# For educational and research purposes only.
+# If you use or share this code, please give credit.
+# Data source: SINADEF - Ministerio de Salud del Peru
+# ---------------------------------------------------------------
+
 import pandas as pd
 
 print("Loading CSV...")
