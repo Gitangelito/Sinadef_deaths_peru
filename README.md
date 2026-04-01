@@ -9,9 +9,10 @@ Analysis of death records from Peru's SINADEF database (2017–2024).
 
 ## How to Run
 
-1. Download the raw data from [SINADEF](https://sinadef.minsa.gob.pe) and name it `fallecidos_sinadef.csv`
-2. Place it in the same folder as the scripts
-3. Run:
+1. Download the raw data from [SINADEF](https://sinadef.minsa.gob.pe)
+2. URL [https://www.datosabiertos.gob.pe/dataset/informaci%C3%B3n-de-fallecidos-del-sistema-inform%C3%A1tico-nacional-de-defunciones-sinadef-1] and name it `fallecidos_sinadef.csv`
+3. Place it in the same folder as the scripts
+4. Run:
 
 ```bash
 pip install pandas matplotlib seaborn
